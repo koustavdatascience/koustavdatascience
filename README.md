@@ -23,7 +23,7 @@ My projects usually begin with a practical question and end somewhere slightly m
 | [Rach](https://github.com/koustavdatascience/Rach-ai) | A prompt-to-3D scene generator with sandboxed execution and self-healing runtime feedback. | Generative tools should be playful, inspectable, and resilient. |
 | [India Change Radar](https://github.com/koustavdatascience/india-change-radar) | An evidence-first workspace for tracking meaningful changes across official Indian sources. | Intelligence is more useful when it keeps a link to the source. |
 | [ClearTrace AI](https://github.com/koustavdatascience/cleartrace-ai) | A role-aware compliance operations workspace for consumer-facing AI systems. | Trust is a product surface, not a footnote. |
-| [ChurnLens](https://github.com/koustavdatascience/churnlens-customer-churn-analytics) | A reproducible churn analysis workflow from raw data to retention hypotheses. | Analysis earns its place when it can lead to a responsible action. |
+| **ChurnLens** *(private study)* | A reproducible churn analysis workflow from raw data to retention hypotheses. | Analysis earns its place when it can lead to a responsible action. |
 | [Vehicle Care Log](https://github.com/koustavdatascience/vehicle-care-log) | A local-first mobile log for fuel, service, repairs, expenses, and reminders. | Everyday software should remain useful when the network disappears. |
 
 ## the throughline
@@ -36,7 +36,7 @@ I keep returning to the same questions:
 - Can local-first and privacy-minded choices be the default rather than the premium tier?
 - Can software feel like a place you want to return to?
 
-The answers are still in progress. The repositories are the field notes.
+The answers are still in progress. The repositories are the field notes. Some of the quieter studies are private by design.
 
 ## the tools I reach for
 
@@ -51,9 +51,9 @@ shipping         Vercel · Streamlit · Supabase · DuckDB · Docker
 
 ## a few other rooms
 
-- [Kankana](https://github.com/koustavdatascience/kankana-portfolio) — an editorial graphic-design archive built around paper, signal, and generous whitespace.
-- [Apology](https://github.com/koustavdatascience/apology) — a deliberately personal web experience made from memory, language, and a little bit of courage.
-- [Velorah](https://github.com/koustavdatascience/project-work-portfolio) — a motion-led portfolio experiment exploring a softer, more art-directed web.
+- **Kankana** — a private editorial graphic-design archive built around paper, signal, and generous whitespace.
+- **Apology** — a private, deliberately personal web experience made from memory, language, and a little bit of courage.
+- **Velorah** — a private motion-led portfolio experiment exploring a softer, more art-directed web.
 
 ## currently
 
