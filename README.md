@@ -52,6 +52,15 @@ From full-stack products to data workflows and visual experiments, I like turnin
 <a href="https://www.adobe.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobe.svg" width="44" height="44" alt="Adobe" /></a>
 <a href="https://antigravity.google/"><img src="https://antigravity.google/assets/image/antigravity-cursor.png" width="44" height="44" alt="Google Antigravity" /></a>
 <a href="https://cursor.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" width="44" height="44" alt="Cursor" /></a>
+<a href="https://openai.com/codex/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex-color.svg" width="44" height="44" alt="OpenAI Codex" /></a>
+<a href="https://manus.im/"><img src="https://files.manuscdn.com/assets/image/brand/image/Manus-Icon.svg" width="44" height="44" alt="Manus" /></a>
+<a href="https://claude.com/product/claude-code"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claudecode-color.svg" width="44" height="44" alt="Claude Code" /></a>
+<a href="https://openrouter.ai/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openrouter-color.svg" width="44" height="44" alt="OpenRouter" /></a>
+<a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langchain-color.svg" width="44" height="44" alt="LangChain" /></a>
+<a href="https://huggingface.co/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/huggingface-color.svg" width="44" height="44" alt="Hugging Face" /></a>
+<a href="https://jupyter.org/"><img src="https://cdn.simpleicons.org/jupyter" width="44" height="44" alt="Jupyter" /></a>
+<a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas" width="44" height="44" alt="Pandas" /></a>
+<a href="https://spark.apache.org/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/spark-color.svg" width="44" height="44" alt="Apache Spark" /></a>
 
 </div>
 
