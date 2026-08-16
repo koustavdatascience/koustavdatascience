@@ -1,10 +1,19 @@
 <div align="center">
 
+<pre>
+╭──────────────────────────────────────────────╮
+│  koustavdatascience / observatory             │
+│  data  →  systems  →  stories                 │
+╰──────────────────────────────────────────────╯
+</pre>
+
 # koustavdatascience
 
 ### software, data, and small worlds with a point of view
 
 *somewhere between an observatory and a workbench.*
+
+[![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/) [![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)](https://en.cppreference.com/w/c) [![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 </div>
 
@@ -37,6 +46,14 @@ I keep returning to the same questions:
 
 The answers are still in progress. The repositories are the field notes. Some of the quieter studies are private by design.
 
+## the signal
+
+<div align="center">
+
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=koustavdatascience&bg_color=ffffff&color=111111&line=5b5f97&point=111111&area=true&hide_border=true&custom_title=activity%20trace)
+
+</div>
+
 ## the tools I reach for
 
 ```text
@@ -48,6 +65,20 @@ world-building   Three.js · Leaflet · Turf · maps · motion · visual archive
 trust layer      local-first flows · source provenance · scoped access · clear caveats
 shipping         Vercel · Streamlit · Supabase · DuckDB · Docker
 ```
+
+## current learning focus
+
+I’m going deeper into **agentic AI workflows with durable memory and explicit provenance**, production-grade Python and TypeScript systems, geospatial interfaces, and interpretable machine learning that can move from analysis into a responsible decision.
+
+## favorite stack
+
+| layer | preferred tools |
+| --- | --- |
+| languages | Python · SQL · Java · C · JavaScript · TypeScript |
+| interfaces | React · Vite · Tailwind · Framer Motion |
+| data systems | DuckDB · PostgreSQL · Supabase · Drizzle |
+| intelligence | embeddings · RAG · structured LLM workflows · interpretable ML |
+| shipping | Vercel · Streamlit · Docker |
 
 ## a few other rooms
 
