@@ -59,6 +59,13 @@ From full-stack products to data workflows and visual experiments, I like turnin
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="44" height="44" alt="Docker" /></a>
 <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="44" height="44" alt="Figma" /></a>
 
+<br /><br />
+
+<sub>AI + CREATIVE TOOLS</sub><br />
+<a href="https://www.adobe.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobe.svg" width="44" height="44" alt="Adobe" /></a>
+<a href="https://antigravity.google/"><img src="https://antigravity.google/assets/image/antigravity-cursor.png" width="44" height="44" alt="Google Antigravity" /></a>
+<a href="https://cursor.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" width="44" height="44" alt="Cursor" /></a>
+
 </div>
 
 ## GitHub stats & activity
