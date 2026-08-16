@@ -57,7 +57,7 @@ shipping         Git · GitHub · Docker · Vercel · Streamlit · Supabase
 <br />
 
 <a href="https://github.com/koustavdatascience">
-  <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustavdatascience&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Koustav's most used languages" />
+  <img width="410" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=koustavdatascience&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Koustav's most used languages" />
 </a>
 
 <br />
