@@ -48,7 +48,7 @@ shipping         Git · GitHub · Docker · Vercel · Streamlit · Supabase
 <div align="center">
 
 <a href="https://github.com/koustavdatascience">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=koustavdatascience&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Koustav's GitHub stats" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=koustavdatascience&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Koustav's GitHub stats" />
 </a>
 <a href="https://github.com/koustavdatascience">
   <img height="170" src="https://streak-stats.demolab.com?user=koustavdatascience&theme=tokyonight&hide_border=true&background=0D1117" alt="Koustav's GitHub streak" />
