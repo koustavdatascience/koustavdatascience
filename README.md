@@ -20,7 +20,6 @@ My projects usually begin with a practical question and end somewhere slightly m
 | --- | --- | --- |
 | [SecondSelf](https://github.com/koustavdatascience/Secondself-project) | A local-first personal AI second brain for notes, links, files, and questions. | Your knowledge should be searchable without becoming disposable. |
 | [Waypoint](https://github.com/koustavdatascience/project-waypoint) | A focus timer that turns completed sessions into virtual flights across real geography. | A timer can be a ritual, not just a countdown. |
-| [Rach](https://github.com/koustavdatascience/Rach-ai) | A prompt-to-3D scene generator with sandboxed execution and self-healing runtime feedback. | Generative tools should be playful, inspectable, and resilient. |
 | [India Change Radar](https://github.com/koustavdatascience/india-change-radar) | An evidence-first workspace for tracking meaningful changes across official Indian sources. | Intelligence is more useful when it keeps a link to the source. |
 | [ClearTrace AI](https://github.com/koustavdatascience/cleartrace-ai) | A role-aware compliance operations workspace for consumer-facing AI systems. | Trust is a product surface, not a footnote. |
 | **ChurnLens** *(private study)* | A reproducible churn analysis workflow from raw data to retention hypotheses. | Analysis earns its place when it can lead to a responsible action. |
@@ -41,8 +40,9 @@ The answers are still in progress. The repositories are the field notes. Some of
 ## the tools I reach for
 
 ```text
-interfaces       React · TypeScript · Vite · Tailwind · Framer Motion
-systems          Python · SQL · Node.js · Express · tRPC · Drizzle
+languages        Python · SQL · Java · C · JavaScript · TypeScript
+interfaces       React · Vite · Tailwind · Framer Motion
+systems          Node.js · Express · tRPC · Drizzle
 intelligence     LLM workflows · RAG · embeddings · interpretable ML
 world-building   Three.js · Leaflet · Turf · maps · motion · visual archives
 trust layer      local-first flows · source provenance · scoped access · clear caveats
