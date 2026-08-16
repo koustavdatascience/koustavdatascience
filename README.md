@@ -60,7 +60,7 @@ From full-stack products to data workflows and visual experiments, I like turnin
 <div align="center">
 
 <a href="https://github.com/koustavdatascience">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=koustavdatascience&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Koustav's GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=koustavdatascience&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Koustav's GitHub stats" />
 </a>
 <a href="https://github.com/koustavdatascience">
   <img height="170" src="https://streak-stats.demolab.com?user=koustavdatascience&theme=tokyonight&hide_border=true&background=0D1117" alt="Koustav's GitHub streak" />
@@ -69,7 +69,7 @@ From full-stack products to data workflows and visual experiments, I like turnin
 <br />
 
 <a href="https://github.com/koustavdatascience">
-  <img width="410" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=koustavdatascience&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Koustav's most used languages" />
+  <img width="410" src="https://github-stats-extended.vercel.app/api/top-langs/?username=koustavdatascience&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Koustav's most used languages" />
 </a>
 
 <br />
