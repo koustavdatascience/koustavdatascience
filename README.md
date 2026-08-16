@@ -58,9 +58,8 @@ From full-stack products to data workflows and visual experiments, I like turnin
 <a href="https://openrouter.ai/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openrouter-color.svg" width="44" height="44" alt="OpenRouter" /></a>
 <a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langchain-color.svg" width="44" height="44" alt="LangChain" /></a>
 <a href="https://huggingface.co/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/huggingface-color.svg" width="44" height="44" alt="Hugging Face" /></a>
-<a href="https://jupyter.org/"><img src="https://cdn.simpleicons.org/jupyter" width="44" height="44" alt="Jupyter" /></a>
 <a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas" width="44" height="44" alt="Pandas" /></a>
-<a href="https://spark.apache.org/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/spark-color.svg" width="44" height="44" alt="Apache Spark" /></a>
+</a>
 
 </div>
 
