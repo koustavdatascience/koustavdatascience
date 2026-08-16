@@ -80,11 +80,6 @@ I’m going deeper into **agentic AI workflows with durable memory and explicit 
 | intelligence | embeddings · RAG · structured LLM workflows · interpretable ML |
 | shipping | Vercel · Streamlit · Docker |
 
-## a few other rooms
-
-- **Kankana** — a private editorial graphic-design archive built around paper, signal, and generous whitespace.
-- **Apology** — a private, deliberately personal web experience made from memory, language, and a little bit of courage.
-- **Velorah** — a private motion-led portfolio experiment exploring a softer, more art-directed web.
 
 ## currently
 
