@@ -23,6 +23,10 @@ I build **useful systems with atmosphere**: products that make complex things fe
 
 My projects usually begin with a practical question and end somewhere slightly more human — a map, a graph, a ritual, an archive, a quiet little tool that remembers what matters.
 
+## short bio
+
+I’m a full-stack web developer who builds practical web apps, explores AI, and enjoys creating thoughtful visual experiences.
+
 ## the shelf
 
 | project | what it is | the idea underneath |
