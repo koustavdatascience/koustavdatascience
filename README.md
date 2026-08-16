@@ -30,18 +30,36 @@ From full-stack products to data workflows and visual experiments, I like turnin
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,bootstrap,react,nodejs,mysql,mongodb,postgres,git,github,docker,vercel&theme=dark)](https://skillicons.dev)
+<sub>CORE LANGUAGES</sub><br />
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="44" height="44" alt="Python" /></a>
+<a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="44" height="44" alt="Java" /></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="44" height="44" alt="C" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="44" height="44" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="44" height="44" alt="TypeScript" /></a>
+
+<br /><br />
+
+<sub>FRONTEND & INTERFACES</sub><br />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="44" height="44" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="44" height="44" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="44" height="44" alt="Bootstrap" /></a>
+<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="44" height="44" alt="React" /></a>
+<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="44" height="44" alt="Tailwind CSS" /></a>
+
+<br /><br />
+
+<sub>BACKEND, DATA & SHIPPING</sub><br />
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="44" height="44" alt="Node.js" /></a>
+<a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="44" height="44" alt="Express" /></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="44" height="44" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="44" height="44" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="44" height="44" alt="PostgreSQL" /></a>
+<a href="https://supabase.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="44" height="44" alt="Supabase" /></a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="44" height="44" alt="Git" /></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="44" height="44" alt="Docker" /></a>
+<a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="44" height="44" alt="Figma" /></a>
 
 </div>
-
-```text
-languages        Python · SQL · Java · C · JavaScript · TypeScript
-frontend         HTML · CSS · Bootstrap · React.js · Vite · Tailwind
-backend          Node.js · Express · API integration
-databases        MySQL · MongoDB · PostgreSQL · DuckDB
-ai + data        LLM workflows · RAG · embeddings · interpretable ML
-shipping         Git · GitHub · Docker · Vercel · Streamlit · Supabase
-```
 
 ## GitHub stats & activity
 
