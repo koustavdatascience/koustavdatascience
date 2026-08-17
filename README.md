@@ -1,4 +1,7 @@
 # koustav.
+<img src="./1.mp4" width="100%" />
+
+<br>
 
 stay hydrated.
 
@@ -6,13 +9,7 @@ stay hydrated.
 
 <br>
 
-<img src="./Painting Flow on a dusty timeline.jpg" width="100%" />
-
-<br>
-
-
-
-## Tech stack & arsenal
+## Tech stack 
 
 <div align="center">
 
