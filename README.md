@@ -1,5 +1,7 @@
 # koustav.
-<img src="./small widget.jpg" width="600" />
+<div align="center">
+  <img src="./small widget.jpg" width="600" />
+</div>
 
 <br>
 
