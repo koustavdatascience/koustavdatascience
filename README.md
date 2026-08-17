@@ -1,5 +1,5 @@
 # koustav.
-<img src="./1.gif" width="100%" />
+<img src="./1.gif" width="400" />
 
 <br>
 
