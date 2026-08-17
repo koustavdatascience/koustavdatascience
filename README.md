@@ -6,7 +6,7 @@ stay hydrated.
 
 <br>
 
-<img src="./art.jpg" width="100%" />
+<img src="./Painting Flow on a dusty timeline.jpg" width="100%" />
 
 <br>
 
