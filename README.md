@@ -5,7 +5,6 @@
 
 <br>
 
-stay hydrated.
 
 📊 | data nerd with too many side projects :P
 
