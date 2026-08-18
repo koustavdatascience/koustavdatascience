@@ -55,21 +55,6 @@ stay hydrated.
 
 </div>
 
-## projects 
-
-| project | what I made | signal |
-| --- | --- | --- |
-| [SecondSelf](https://github.com/koustavdatascience/Secondself-project) | A local-first AI second brain for notes, links, files, and questions. | Personal knowledge should stay useful and searchable. |
-| [Waypoint](https://github.com/koustavdatascience/project-waypoint) | A focus timer that turns completed sessions into virtual flights across real geography. | A timer can become a ritual. |
-| [India Change Radar](https://github.com/koustavdatascience/india-change-radar) | An evidence-first workspace for monitoring meaningful changes across official Indian sources. | Intelligence is stronger when it keeps the source. |
-| [ClearTrace AI](https://github.com/koustavdatascience/cleartrace-ai) | A compliance operations workspace for consumer-facing AI systems. | Trust is part of the product surface. |
-| **ChurnLens** *(private study)* | A reproducible analytics workflow from churn data to retention hypotheses. | Analysis should lead to responsible action. |
-| [Vehicle Care Log](https://github.com/koustavdatascience/vehicle-care-log) | A local-first mobile log for fuel, service, repairs, expenses, and reminders. | Everyday tools should still work when the network disappears. |
-
-<div align="center">
-
-[Explore my repositories](https://github.com/koustavdatascience?tab=repositories)
-
 <br />
 
 `code · charts · interfaces · ideas`
